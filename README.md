@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning C#, & .NET
+- 👯 I’m looking to collaborate on SQL, C#, and/or .NET projects that will be good learning experiences.
 
 <!--
 **scrow85-wq/scrow85-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
